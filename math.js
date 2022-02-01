@@ -1,4 +1,4 @@
-const num = -5;
+/* const num = -5;
 const result = Math.abs(num);
 console.log(result);
 const num1 = 5.54;
@@ -12,6 +12,6 @@ const result3 = Math.round(num3);
 console.log(result3);
 const num4 = 5.34;
 const result4 = Math.round(num4);
-console.log(result4);
-result5 = Math.random();
+console.log(result4); */
+result5 = Math.round(Math.random()) * 10;
 console.log(result5);
